@@ -1,0 +1,19 @@
+.App {
+  align-items: center;
+  min-height: 100vh;
+  background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+}
+.datas {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-width: 20%;
+  border-radius: 10px;
+  box-shadow: 0px, 5px, 20px, rgb(71, 71, 71);
+  margin: 20px;
+  flex-direction: column;
+  background: white;
+}
+.values {
+  color: purple;
+}

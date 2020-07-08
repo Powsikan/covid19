@@ -1,8 +1,8 @@
 
 
 
-Check here to recent updates of covid19
+Check here to recent updates of covid1
 
-https://powsikan.github.io/covid19/
+🔗https://powsikan.github.io/covid19/
 
 
